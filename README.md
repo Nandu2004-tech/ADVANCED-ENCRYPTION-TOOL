@@ -15,3 +15,4 @@ This Advanced Encryption Tool is designed to provide a simple yet highly secure 
 
 The inclusion of GUI and CLI options makes it accessible to both casual users and security professionals. Additionally, secure key management and integrity checks enhance its reliability. With future improvements, this tool can evolve into a full-featured encryption suite, providing even stronger security for modern digital needs.
 # out put
+[en_de.docx](https://github.com/user-attachments/files/19573107/en_de.docx)
